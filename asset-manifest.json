@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shang-jui/react-todolist/static/css/main.e28d4b7c.chunk.css",
+    "main.js": "/shang-jui/react-todolist/static/js/main.fa83d542.chunk.js",
+    "main.js.map": "/shang-jui/react-todolist/static/js/main.fa83d542.chunk.js.map",
+    "runtime-main.js": "/shang-jui/react-todolist/static/js/runtime-main.251f19b6.js",
+    "runtime-main.js.map": "/shang-jui/react-todolist/static/js/runtime-main.251f19b6.js.map",
+    "static/js/2.bca8a1a8.chunk.js": "/shang-jui/react-todolist/static/js/2.bca8a1a8.chunk.js",
+    "static/js/2.bca8a1a8.chunk.js.map": "/shang-jui/react-todolist/static/js/2.bca8a1a8.chunk.js.map",
+    "static/js/3.01728fe3.chunk.js": "/shang-jui/react-todolist/static/js/3.01728fe3.chunk.js",
+    "static/js/3.01728fe3.chunk.js.map": "/shang-jui/react-todolist/static/js/3.01728fe3.chunk.js.map",
+    "index.html": "/shang-jui/react-todolist/index.html",
+    "static/css/main.e28d4b7c.chunk.css.map": "/shang-jui/react-todolist/static/css/main.e28d4b7c.chunk.css.map",
+    "static/js/2.bca8a1a8.chunk.js.LICENSE.txt": "/shang-jui/react-todolist/static/js/2.bca8a1a8.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/shang-jui/react-todolist/static/media/check-hover.5e00062b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.251f19b6.js",
+    "static/js/2.bca8a1a8.chunk.js",
+    "static/css/main.e28d4b7c.chunk.css",
+    "static/js/main.fa83d542.chunk.js"
+  ]
+}
